@@ -46,7 +46,9 @@ The categories of data scraped were
 3. BeautifulSoup parses through the page 
 4. Product information is extracted from each product card
 5. Data is stored in a Pandas DataFrame
-6. The cleaned data is now saved to a CSV file
+6. The cleaned data is now saved to a CSV file <img width="771" height="381" alt="image" src="https://github.com/user-attachments/assets/9dad2b89-df95-4958-b49e-1aa82d656286" />
+
+
 
 ## Note 
 Please respect all the jumia guidelines while scraping the data
